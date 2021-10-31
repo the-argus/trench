@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Value: 1
   threshold:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 2
     min: 0
   intensity:
     m_OverrideState: 1
@@ -231,4 +231,4 @@ MonoBehaviour:
   m_AdvancedMode: 0
   _posterizeSteps:
     m_OverrideState: 1
-    m_Value: 3
+    m_Value: 4
